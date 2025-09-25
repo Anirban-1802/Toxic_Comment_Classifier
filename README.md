@@ -75,9 +75,8 @@ Follow these steps to run the project yourself:
     -   The first cell will install all dependencies. The last cell will launch the Gradio demo.
 
 ## 📂 File Structure
-├── Toxicity_Cleaned.ipynb      # The main Jupyter notebook with all the code.
-├── train.csv                   # Training data with comments and labels.
-├── test.csv                    # Test data with comments.
-├── test_labels.csv             # Labels for the test data.
-├── sample_submission.csv       # An example of the required submission format.
-└── README.md                   # This file.
+-   **Toxicity_Cleaned.ipynb:** The main Jupyter notebook with all the code.
+-   **train.csv:** Training data with comments and labels.
+-   **test.csv:** Test data with comments.
+-   **test_labels.csv:** Labels for the test data.
+-   **sample_submission.csv:** An example of the required submission.
